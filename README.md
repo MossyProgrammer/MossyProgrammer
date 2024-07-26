@@ -1,6 +1,4 @@
-Hello and well met!
-
-I’m MossyProgrammer aka Taylor Joseph! I am a budding programmer with an interest in homebrew and all manner of shenanigans and mischief. 
+### Hello and well met! I’m MossyProgrammer a.k.a Taylor Joseph!
 
 Graduate of Indiana Tech - B.A. in Computer Science (2023)
 <!---
